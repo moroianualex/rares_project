@@ -10,6 +10,6 @@ public class Test {
      * @return - sum of them.
      */
     public int sum(int x, int y) {
-        return x+y;
+        return x+y / 10;
     }
 }
